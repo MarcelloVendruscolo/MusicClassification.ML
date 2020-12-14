@@ -1,2 +1,4 @@
 # MusicClassification.ML
-This repository concerns the project on (music) classification for the 1RT700 Statistical Machine Learning course at Uppsala University.
+This repository concerns the project on (music) classification for the 1RT700 Statistical Machine Learning course at Uppsala University. 
+
+This is a group project where each group explores several supervised machine learning methods (i.e., logistic regression, k-NN, LDA and QDA, Boosting, Neural Networks) to predict if a given persona will like or dislike songs based on their features. The training dataset consists of 750 labelled songs and the testing dataset consists of 200 songs. The predictions are submitted to the course website where they are assessed and a the highest prediction accuracies are kept in a score leaderboard. In addition to the implementation, a report following the NeurIPS standards is submitted. In this repository, a simple classifier using deep neural network is implemented.
